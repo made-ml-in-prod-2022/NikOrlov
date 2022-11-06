@@ -2,9 +2,9 @@ name: Training model ci
 
 on:
   push:
-    branches: [ main ]
+    branches: [ homework1 ]
   pull_request:
-    branches: [ main ]
+    branches: [ homework1 ]
 
 jobs:
   build:
